@@ -20,7 +20,7 @@ Reflecting on the challenges faced during the installation of "86 No More," we r
 
 1. **Thorough Documentation:** We will create comprehensive documentation that outlines the installation process and includes troubleshooting guidelines. This documentation will be valuable for team members and users, ensuring a smoother onboarding experience.
 
-2. **Dependency Management:** To prevent issues related to deprecated dependencies, we will adopt a proactive approach to dependency management. We will be regularly checking for updates using tools like "npm-check -u" to keep our project dependencies current.
+2. **Dependency Management:** To prevent issues related to deprecated dependencies, we will adopt a proactive approach to dependency management. We will be regularly checking for updates using commands like "npm-check -u" to keep our project dependencies current.
 
 3. **CORS Handling:** We have learned the importance of understanding CORS and its implications. In Project 2, we will proactively address CORS-related challenges by configuring the necessary headers and providing clear instructions in our documentation.
 
