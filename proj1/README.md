@@ -1,3 +1,5 @@
+Video Link: https://www.youtube.com/watch?v=y8JPJ0Z7IjQ
+
 # **"86 No More: A Kitchen Intelligence Solution,"**
 
 In the restaurant industry, efficient inventory management is essential for smooth operations, waste reduction, and maximizing profits. As a team, we have selected **"86 No More: A Kitchen Intelligence Solution,"** an innovative app to streamline inventory management, as our project to work on further. This essay will explore its key features and benefits, discuss initial sign-up challenges, and outline our strategies for **Project 2** to avoid similar issues.
