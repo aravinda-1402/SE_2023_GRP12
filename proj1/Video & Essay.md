@@ -1,4 +1,4 @@
-Video Link: https://www.youtube.com/watch?v=y8JPJ0Z7IjQ
+**Video Link**: https://www.youtube.com/watch?v=y8JPJ0Z7IjQ
 
 # **"86 No More: A Kitchen Intelligence Solution,"**
 
